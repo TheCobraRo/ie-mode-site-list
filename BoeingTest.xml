@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<site-list version="1">
+
+    <!-- Shared Cookies -->
+    <shared-cookie domain=".myboeingfleet.com" name="XOTSSOCookie" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="XOTSSOCookie" source-engine="Both" />
+    <shared-cookie domain=".myboeingfleet.com" name="BOEINGPARTNER" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="BOEINGPARTNER" source-engine="Both" />
+    <shared-cookie domain=".myboeingfleet.com" name="WSSO_AZN_UID" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="WSSO_AZN_UID" source-engine="Both" />
+    <shared-cookie domain=".myboeingfleet.com" name="http_logged_on" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="http_logged_on" source-engine="Both" />
+    <shared-cookie domain=".myboeingfleet.com" name="BoeingCIEProdSSGRP" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="BoeingCIEProdSSGRP" source-engine="Both" />
+    <shared-cookie domain=".myboeingfleet.com" name="OptanonAlertBoxClosed" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="OptanonAlertBoxClosed" source-engine="Both" />
+    <shared-cookie domain=".boeing.com" name="L7Session" source-engine="Both" />
+
+    <!-- Site List Entries -->
+    <site url="https://myboeingfleet.boeing.com/psds">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_787">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/psds">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_787">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_explorer">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://nonboeing-toolbox.boeing.com/toolbox_nb">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://nonboeing-toolbox.boeing.com/toolbox_sso_nb">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_nb">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_nb">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://nonboeing-toolbox.boeing.com/toolbox_uat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://nonboeing-toolbox.boeing.com/toolbox_sso_uat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_nb_uat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_nb_uat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_explorer">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_explorer">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_787">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_787iat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_787iat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_787iat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/psds">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/toolbox_explorer/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_explorer/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/toolbox_explorer/authoring/getFragment.html">
+        <compat-mode>IE9</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.com/PSAML/idp/startSSO.ping">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://myboeingfleet.boeing.com/PSAML/idp/startSSO.ping">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://nonboeing-toolbox.boeing.com">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_nb">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+    <site url="https://app.myboeingfleet.com/toolbox_nb_uat">
+        <compat-mode>IE11</compat-mode>
+        <open-in>IE</open-in>
+    </site>
+
+</site-list>
